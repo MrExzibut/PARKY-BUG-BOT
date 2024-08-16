@@ -1,0 +1,1010 @@
+10 mai 2024 19:52:08.793: [23265/23265] [PARSE DICO] - Queue parse dictionary service
+10 mai 2024 19:52:08.796: [23265/23265] [PARSE DICO] - Start Service ParseDictionary
+10 mai 2024 19:52:08.841: [23265/23353] [PARSE DICO] - onHandleIntent START
+10 mai 2024 19:52:08.844: [23265/23353] [PARSE DICO] - Acquire wake lock...
+10 mai 2024 19:52:08.850: [23265/23353] [PARSE DICO] - Acquire wake lock done
+10 mai 2024 19:52:08.853: [23265/23353] [PARSE DICO] - Read version file and convert to json...
+10 mai 2024 19:52:08.855: [23265/23353] [PARSE DICO] - Version file read done
+10 mai 2024 19:52:08.856: [23265/23353] [PARSE DICO] - check if need local update...
+10 mai 2024 19:52:08.857: [23265/23353] [PARSE DICO] - check if need local update done
+10 mai 2024 19:52:08.858: [23265/23353] [PARSE DICO] - Start dictionary update service
+10 mai 2024 21:39:52.7: [23265/23265] [PARSE DICO] - Queue parse dictionary service
+10 mai 2024 21:39:52.9: [23265/23265] [PARSE DICO] - Check if need online update
+10 mai 2024 21:55:14.683: [23265/23265] [PARSE DICO] - Queue parse dictionary service
+10 mai 2024 21:55:14.685: [23265/23265] [PARSE DICO] - Check if need online update
+10 mai 2024 22:02:12.416: [23265/23265] [PARSE DICO] - Queue parse dictionary service
+10 mai 2024 22:02:12.418: [23265/23265] [PARSE DICO] - Check if need online update
+10 mai 2024 22:21:46.106: [23265/23265] [PARSE DICO] - Queue parse dictionary service
+10 mai 2024 22:21:46.111: [23265/23265] [PARSE DICO] - Check if need online update
+10 mai 2024 23:02:45.878: [23265/23265] [PARSE DICO] - Queue parse dictionary service
+10 mai 2024 23:02:45.939: [23265/23265] [PARSE DICO] - Check if need online update
+11 mai 2024 01:26:33.101: [13492/13492] [PARSE DICO] - Queue parse dictionary service
+11 mai 2024 01:26:33.104: [13492/13492] [PARSE DICO] - Start Service ParseDictionary
+11 mai 2024 01:26:33.186: [13492/13583] [PARSE DICO] - onHandleIntent START
+11 mai 2024 01:26:33.189: [13492/13583] [PARSE DICO] - Acquire wake lock...
+11 mai 2024 01:26:33.193: [13492/13583] [PARSE DICO] - Acquire wake lock done
+11 mai 2024 01:26:33.197: [13492/13583] [PARSE DICO] - Read version file and convert to json...
+11 mai 2024 01:26:33.199: [13492/13583] [PARSE DICO] - Version file read done
+11 mai 2024 01:26:33.202: [13492/13583] [PARSE DICO] - check if need local update...
+11 mai 2024 01:26:33.206: [13492/13583] [PARSE DICO] - check if need local update done
+11 mai 2024 01:26:33.210: [13492/13583] [PARSE DICO] - Start dictionary update service
+11 mai 2024 01:49:11.40: [13492/13492] [PARSE DICO] - Queue parse dictionary service
+11 mai 2024 01:49:11.44: [13492/13492] [PARSE DICO] - Check if need online update
+11 mai 2024 01:50:21.346: [13492/13492] [PARSE DICO] - Queue parse dictionary service
+11 mai 2024 01:50:21.347: [13492/13492] [PARSE DICO] - Check if need online update
+11 mai 2024 01:50:56.328: [13492/13492] [PARSE DICO] - Queue parse dictionary service
+11 mai 2024 01:50:56.332: [13492/13492] [PARSE DICO] - Check if need online update
+11 mai 2024 18:13:23.963: [14241/14241] [PARSE DICO] - Queue parse dictionary service
+11 mai 2024 18:13:23.967: [14241/14241] [PARSE DICO] - Start Service ParseDictionary
+11 mai 2024 18:13:24.296: [14241/16206] [PARSE DICO] - onHandleIntent START
+11 mai 2024 18:13:24.300: [14241/16206] [PARSE DICO] - Acquire wake lock...
+11 mai 2024 18:13:24.305: [14241/16206] [PARSE DICO] - Acquire wake lock done
+11 mai 2024 18:13:24.307: [14241/16206] [PARSE DICO] - Read version file and convert to json...
+11 mai 2024 18:13:24.321: [14241/16206] [PARSE DICO] - Version file read done
+11 mai 2024 18:13:24.331: [14241/16206] [PARSE DICO] - check if need local update...
+11 mai 2024 18:13:24.337: [14241/16206] [PARSE DICO] - check if need local update done
+11 mai 2024 18:13:24.339: [14241/16206] [PARSE DICO] - Start dictionary update service
+11 mai 2024 18:17:22.109: [14241/14241] [PARSE DICO] - Queue parse dictionary service
+11 mai 2024 18:17:22.113: [14241/14241] [PARSE DICO] - Check if need online update
+11 mai 2024 19:20:24.271: [14241/14241] [PARSE DICO] - Queue parse dictionary service
+11 mai 2024 19:20:24.273: [14241/14241] [PARSE DICO] - Check if need online update
+11 mai 2024 19:21:39.153: [14241/14241] [PARSE DICO] - Queue parse dictionary service
+11 mai 2024 19:21:39.155: [14241/14241] [PARSE DICO] - Check if need online update
+11 mai 2024 19:22:27.572: [14241/14241] [PARSE DICO] - Queue parse dictionary service
+11 mai 2024 19:22:27.575: [14241/14241] [PARSE DICO] - Check if need online update
+12 mai 2024 14:53:42.338: [6568/6568] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 14:53:42.339: [6568/6568] [PARSE DICO] - Start Service ParseDictionary
+12 mai 2024 14:53:42.600: [6568/7493] [PARSE DICO] - onHandleIntent START
+12 mai 2024 14:53:42.604: [6568/7493] [PARSE DICO] - Acquire wake lock...
+12 mai 2024 14:53:42.607: [6568/7493] [PARSE DICO] - Acquire wake lock done
+12 mai 2024 14:53:42.609: [6568/7493] [PARSE DICO] - Read version file and convert to json...
+12 mai 2024 14:53:42.615: [6568/7493] [PARSE DICO] - Version file read done
+12 mai 2024 14:53:42.618: [6568/7493] [PARSE DICO] - check if need local update...
+12 mai 2024 14:53:42.621: [6568/7493] [PARSE DICO] - check if need local update done
+12 mai 2024 14:53:42.623: [6568/7493] [PARSE DICO] - Start dictionary update service
+12 mai 2024 16:02:42.856: [9908/9908] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 16:02:42.858: [9908/9908] [PARSE DICO] - Start Service ParseDictionary
+12 mai 2024 16:02:42.917: [9908/10196] [PARSE DICO] - onHandleIntent START
+12 mai 2024 16:02:42.920: [9908/10196] [PARSE DICO] - Acquire wake lock...
+12 mai 2024 16:02:42.926: [9908/10196] [PARSE DICO] - Acquire wake lock done
+12 mai 2024 16:02:42.928: [9908/10196] [PARSE DICO] - Read version file and convert to json...
+12 mai 2024 16:02:42.932: [9908/10196] [PARSE DICO] - Version file read done
+12 mai 2024 16:02:42.935: [9908/10196] [PARSE DICO] - check if need local update...
+12 mai 2024 16:02:42.938: [9908/10196] [PARSE DICO] - check if need local update done
+12 mai 2024 16:02:42.939: [9908/10196] [PARSE DICO] - Start dictionary update service
+12 mai 2024 17:01:47.156: [9908/9908] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 17:01:47.161: [9908/9908] [PARSE DICO] - Check if need online update
+12 mai 2024 19:02:07.362: [26091/26091] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 19:02:07.369: [26091/26091] [PARSE DICO] - Start Service ParseDictionary
+12 mai 2024 19:02:07.422: [26091/26181] [PARSE DICO] - onHandleIntent START
+12 mai 2024 19:02:07.427: [26091/26181] [PARSE DICO] - Acquire wake lock...
+12 mai 2024 19:02:07.433: [26091/26181] [PARSE DICO] - Acquire wake lock done
+12 mai 2024 19:02:07.438: [26091/26181] [PARSE DICO] - Read version file and convert to json...
+12 mai 2024 19:02:07.442: [26091/26181] [PARSE DICO] - Version file read done
+12 mai 2024 19:02:07.445: [26091/26181] [PARSE DICO] - check if need local update...
+12 mai 2024 19:02:07.450: [26091/26181] [PARSE DICO] - check if need local update done
+12 mai 2024 19:02:07.460: [26091/26181] [PARSE DICO] - Start dictionary update service
+12 mai 2024 19:20:47.601: [26091/26091] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 19:20:47.604: [26091/26091] [PARSE DICO] - Check if need online update
+12 mai 2024 19:25:42.717: [26091/26091] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 19:25:42.721: [26091/26091] [PARSE DICO] - Check if need online update
+12 mai 2024 19:32:46.216: [26091/26091] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 19:32:46.219: [26091/26091] [PARSE DICO] - Check if need online update
+12 mai 2024 19:36:15.141: [26091/26091] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 19:36:15.144: [26091/26091] [PARSE DICO] - Check if need online update
+12 mai 2024 19:50:58.126: [26091/26091] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 19:50:58.129: [26091/26091] [PARSE DICO] - Check if need online update
+12 mai 2024 19:55:29.932: [26091/26091] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 19:55:29.936: [26091/26091] [PARSE DICO] - Check if need online update
+12 mai 2024 20:19:00.875: [26091/26091] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 20:19:00.877: [26091/26091] [PARSE DICO] - Check if need online update
+12 mai 2024 20:22:00.731: [26091/26091] [PARSE DICO] - Queue parse dictionary service
+12 mai 2024 20:22:00.757: [26091/26091] [PARSE DICO] - Check if need online update
+13 mai 2024 06:24:45.30: [24056/24056] [PARSE DICO] - Queue parse dictionary service
+13 mai 2024 06:24:45.31: [24056/24056] [PARSE DICO] - Start Service ParseDictionary
+13 mai 2024 06:24:45.69: [24056/24759] [PARSE DICO] - onHandleIntent START
+13 mai 2024 06:24:45.70: [24056/24759] [PARSE DICO] - Acquire wake lock...
+13 mai 2024 06:24:45.73: [24056/24759] [PARSE DICO] - Acquire wake lock done
+13 mai 2024 06:24:45.74: [24056/24759] [PARSE DICO] - Read version file and convert to json...
+13 mai 2024 06:24:45.75: [24056/24759] [PARSE DICO] - Version file read done
+13 mai 2024 06:24:45.77: [24056/24759] [PARSE DICO] - check if need local update...
+13 mai 2024 06:24:45.82: [24056/24759] [PARSE DICO] - check if need local update done
+13 mai 2024 06:24:45.84: [24056/24759] [PARSE DICO] - Start dictionary update service
+13 mai 2024 21:12:39.795: [24387/24387] [PARSE DICO] - Queue parse dictionary service
+13 mai 2024 21:12:39.799: [24387/24387] [PARSE DICO] - Start Service ParseDictionary
+13 mai 2024 21:12:39.881: [24387/24491] [PARSE DICO] - onHandleIntent START
+13 mai 2024 21:12:39.883: [24387/24491] [PARSE DICO] - Acquire wake lock...
+13 mai 2024 21:12:39.886: [24387/24491] [PARSE DICO] - Acquire wake lock done
+13 mai 2024 21:12:39.889: [24387/24491] [PARSE DICO] - Read version file and convert to json...
+13 mai 2024 21:12:39.893: [24387/24491] [PARSE DICO] - Version file read done
+13 mai 2024 21:12:39.896: [24387/24491] [PARSE DICO] - check if need local update...
+13 mai 2024 21:12:39.898: [24387/24491] [PARSE DICO] - check if need local update done
+13 mai 2024 21:12:39.903: [24387/24491] [PARSE DICO] - Start dictionary update service
+13 mai 2024 21:18:37.618: [24387/24387] [PARSE DICO] - Queue parse dictionary service
+13 mai 2024 21:18:37.621: [24387/24387] [PARSE DICO] - Check if need online update
+13 mai 2024 21:18:44.680: [24387/24387] [PARSE DICO] - Queue parse dictionary service
+13 mai 2024 21:18:44.687: [24387/24387] [PARSE DICO] - Check if need online update
+13 mai 2024 21:26:09.29: [24387/24387] [PARSE DICO] - Queue parse dictionary service
+13 mai 2024 21:26:09.34: [24387/24387] [PARSE DICO] - Check if need online update
+13 mai 2024 21:29:23.794: [24387/24387] [PARSE DICO] - Queue parse dictionary service
+13 mai 2024 21:29:23.796: [24387/24387] [PARSE DICO] - Check if need online update
+13 mai 2024 21:46:15.831: [24387/24387] [PARSE DICO] - Queue parse dictionary service
+13 mai 2024 21:46:15.843: [24387/24387] [PARSE DICO] - Check if need online update
+13 mai 2024 22:12:43.375: [24387/24387] [PARSE DICO] - Queue parse dictionary service
+13 mai 2024 22:12:43.378: [24387/24387] [PARSE DICO] - Check if need online update
+13 mai 2024 22:17:05.106: [24387/24387] [PARSE DICO] - Queue parse dictionary service
+13 mai 2024 22:17:05.136: [24387/24387] [PARSE DICO] - Check if need online update
+14 mai 2024 05:28:59.480: [24387/24387] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 05:28:59.487: [24387/24387] [PARSE DICO] - Check if need online update
+14 mai 2024 12:35:21.513: [26212/26212] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 12:35:21.518: [26212/26212] [PARSE DICO] - Start Service ParseDictionary
+14 mai 2024 12:35:21.598: [26212/26304] [PARSE DICO] - onHandleIntent START
+14 mai 2024 12:35:21.602: [26212/26304] [PARSE DICO] - Acquire wake lock...
+14 mai 2024 12:35:21.611: [26212/26304] [PARSE DICO] - Acquire wake lock done
+14 mai 2024 12:35:21.614: [26212/26304] [PARSE DICO] - Read version file and convert to json...
+14 mai 2024 12:35:21.618: [26212/26304] [PARSE DICO] - Version file read done
+14 mai 2024 12:35:21.620: [26212/26304] [PARSE DICO] - check if need local update...
+14 mai 2024 12:35:21.621: [26212/26304] [PARSE DICO] - check if need local update done
+14 mai 2024 12:35:21.624: [26212/26304] [PARSE DICO] - Start dictionary update service
+14 mai 2024 12:38:36.218: [26212/26212] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 12:38:36.220: [26212/26212] [PARSE DICO] - Check if need online update
+14 mai 2024 12:41:46.516: [26212/26212] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 12:41:46.520: [26212/26212] [PARSE DICO] - Check if need online update
+14 mai 2024 12:54:10.910: [26212/26212] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 12:54:10.919: [26212/26212] [PARSE DICO] - Check if need online update
+14 mai 2024 12:56:16.829: [26212/26212] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 12:56:16.832: [26212/26212] [PARSE DICO] - Check if need online update
+14 mai 2024 13:51:51.469: [26212/26212] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 13:51:51.471: [26212/26212] [PARSE DICO] - Check if need online update
+14 mai 2024 21:27:44.446: [25964/25964] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 21:27:44.449: [25964/25964] [PARSE DICO] - Start Service ParseDictionary
+14 mai 2024 21:27:44.532: [25964/26562] [PARSE DICO] - onHandleIntent START
+14 mai 2024 21:27:44.539: [25964/26562] [PARSE DICO] - Acquire wake lock...
+14 mai 2024 21:27:44.544: [25964/26562] [PARSE DICO] - Acquire wake lock done
+14 mai 2024 21:27:44.548: [25964/26562] [PARSE DICO] - Read version file and convert to json...
+14 mai 2024 21:27:44.565: [25964/26562] [PARSE DICO] - Version file read done
+14 mai 2024 21:27:44.566: [25964/26562] [PARSE DICO] - check if need local update...
+14 mai 2024 21:27:44.569: [25964/26562] [PARSE DICO] - check if need local update done
+14 mai 2024 21:27:44.570: [25964/26562] [PARSE DICO] - Start dictionary update service
+14 mai 2024 21:38:48.479: [25964/25964] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 21:38:48.482: [25964/25964] [PARSE DICO] - Check if need online update
+14 mai 2024 21:42:44.727: [25964/25964] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 21:42:44.730: [25964/25964] [PARSE DICO] - Check if need online update
+14 mai 2024 21:45:38.742: [25964/25964] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 21:45:38.746: [25964/25964] [PARSE DICO] - Check if need online update
+14 mai 2024 21:47:50.391: [25964/25964] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 21:47:50.395: [25964/25964] [PARSE DICO] - Check if need online update
+14 mai 2024 21:58:37.999: [25964/25964] [PARSE DICO] - Queue parse dictionary service
+14 mai 2024 21:58:38.6: [25964/25964] [PARSE DICO] - Check if need online update
+15 mai 2024 06:46:26.131: [19686/19686] [PARSE DICO] - Queue parse dictionary service
+15 mai 2024 06:46:26.133: [19686/19686] [PARSE DICO] - Start Service ParseDictionary
+15 mai 2024 06:46:26.171: [19686/19778] [PARSE DICO] - onHandleIntent START
+15 mai 2024 06:46:26.174: [19686/19778] [PARSE DICO] - Acquire wake lock...
+15 mai 2024 06:46:26.180: [19686/19778] [PARSE DICO] - Acquire wake lock done
+15 mai 2024 06:46:26.181: [19686/19778] [PARSE DICO] - Read version file and convert to json...
+15 mai 2024 06:46:26.182: [19686/19778] [PARSE DICO] - Version file read done
+15 mai 2024 06:46:26.184: [19686/19778] [PARSE DICO] - check if need local update...
+15 mai 2024 06:46:26.185: [19686/19778] [PARSE DICO] - check if need local update done
+15 mai 2024 06:46:26.186: [19686/19778] [PARSE DICO] - Start dictionary update service
+15 mai 2024 10:10:45.366: [19686/19686] [PARSE DICO] - Queue parse dictionary service
+15 mai 2024 10:10:45.373: [19686/19686] [PARSE DICO] - Check if need online update
+15 mai 2024 11:40:12.935: [3774/3774] [PARSE DICO] - Queue parse dictionary service
+15 mai 2024 11:40:12.939: [3774/3774] [PARSE DICO] - Start Service ParseDictionary
+15 mai 2024 11:40:13.23: [3774/23163] [PARSE DICO] - onHandleIntent START
+15 mai 2024 11:40:13.26: [3774/23163] [PARSE DICO] - Acquire wake lock...
+15 mai 2024 11:40:13.29: [3774/23163] [PARSE DICO] - Acquire wake lock done
+15 mai 2024 11:40:13.31: [3774/23163] [PARSE DICO] - Read version file and convert to json...
+15 mai 2024 11:40:13.35: [3774/23163] [PARSE DICO] - Version file read done
+15 mai 2024 11:40:13.36: [3774/23163] [PARSE DICO] - check if need local update...
+15 mai 2024 11:40:13.38: [3774/23163] [PARSE DICO] - check if need local update done
+15 mai 2024 11:40:13.46: [3774/23163] [PARSE DICO] - Start dictionary update service
+15 mai 2024 12:47:12.5: [3774/3774] [PARSE DICO] - Queue parse dictionary service
+15 mai 2024 12:47:12.13: [3774/3774] [PARSE DICO] - Check if need online update
+15 mai 2024 20:31:18.459: [9868/9868] [PARSE DICO] - Queue parse dictionary service
+15 mai 2024 20:31:18.462: [9868/9868] [PARSE DICO] - Start Service ParseDictionary
+15 mai 2024 20:31:18.488: [9868/9954] [PARSE DICO] - onHandleIntent START
+15 mai 2024 20:31:18.490: [9868/9954] [PARSE DICO] - Acquire wake lock...
+15 mai 2024 20:31:18.493: [9868/9954] [PARSE DICO] - Acquire wake lock done
+15 mai 2024 20:31:18.495: [9868/9954] [PARSE DICO] - Read version file and convert to json...
+15 mai 2024 20:31:18.497: [9868/9954] [PARSE DICO] - Version file read done
+15 mai 2024 20:31:18.499: [9868/9954] [PARSE DICO] - check if need local update...
+15 mai 2024 20:31:18.502: [9868/9954] [PARSE DICO] - check if need local update done
+15 mai 2024 20:31:18.504: [9868/9954] [PARSE DICO] - Start dictionary update service
+15 mai 2024 20:31:37.760: [9868/9868] [PARSE DICO] - Queue parse dictionary service
+15 mai 2024 20:31:37.761: [9868/9868] [PARSE DICO] - Check if need online update
+15 mai 2024 20:32:18.551: [9868/9868] [PARSE DICO] - Queue parse dictionary service
+15 mai 2024 20:32:18.555: [9868/9868] [PARSE DICO] - Check if need online update
+15 mai 2024 20:32:32.258: [9868/9868] [PARSE DICO] - Queue parse dictionary service
+15 mai 2024 20:32:32.260: [9868/9868] [PARSE DICO] - Check if need online update
+15 mai 2024 20:35:19.884: [9868/9868] [PARSE DICO] - Queue parse dictionary service
+15 mai 2024 20:35:19.886: [9868/9868] [PARSE DICO] - Check if need online update
+20 mai 2024 00:12:27.54: [13716/13716] [PARSE DICO] - Queue parse dictionary service
+20 mai 2024 00:12:27.58: [13716/13716] [PARSE DICO] - Start Service ParseDictionary
+20 mai 2024 00:12:27.91: [13716/13803] [PARSE DICO] - onHandleIntent START
+20 mai 2024 00:12:27.92: [13716/13803] [PARSE DICO] - Acquire wake lock...
+20 mai 2024 00:12:27.97: [13716/13803] [PARSE DICO] - Acquire wake lock done
+20 mai 2024 00:12:27.99: [13716/13803] [PARSE DICO] - Read version file and convert to json...
+20 mai 2024 00:12:27.101: [13716/13803] [PARSE DICO] - Version file read done
+20 mai 2024 00:12:27.103: [13716/13803] [PARSE DICO] - check if need local update...
+20 mai 2024 00:12:27.106: [13716/13803] [PARSE DICO] - check if need local update done
+20 mai 2024 00:12:27.109: [13716/13803] [PARSE DICO] - Start dictionary update service
+21 mai 2024 20:52:36.918: [13879/13879] [PARSE DICO] - Queue parse dictionary service
+21 mai 2024 20:52:36.923: [13879/13879] [PARSE DICO] - Start Service ParseDictionary
+21 mai 2024 20:52:36.946: [13879/13968] [PARSE DICO] - onHandleIntent START
+21 mai 2024 20:52:36.948: [13879/13968] [PARSE DICO] - Acquire wake lock...
+21 mai 2024 20:52:36.951: [13879/13968] [PARSE DICO] - Acquire wake lock done
+21 mai 2024 20:52:36.952: [13879/13968] [PARSE DICO] - Read version file and convert to json...
+21 mai 2024 20:52:36.953: [13879/13968] [PARSE DICO] - Version file read done
+21 mai 2024 20:52:36.953: [13879/13968] [PARSE DICO] - check if need local update...
+21 mai 2024 20:52:36.954: [13879/13968] [PARSE DICO] - check if need local update done
+21 mai 2024 20:52:36.954: [13879/13968] [PARSE DICO] - Start dictionary update service
+21 mai 2024 20:54:04.399: [13879/13879] [PARSE DICO] - Queue parse dictionary service
+21 mai 2024 20:54:04.401: [13879/13879] [PARSE DICO] - Check if need online update
+21 mai 2024 20:54:42.556: [13879/13879] [PARSE DICO] - Queue parse dictionary service
+21 mai 2024 20:54:42.557: [13879/13879] [PARSE DICO] - Check if need online update
+21 mai 2024 20:54:44.678: [13879/13879] [PARSE DICO] - Queue parse dictionary service
+21 mai 2024 20:54:44.680: [13879/13879] [PARSE DICO] - Check if need online update
+21 mai 2024 20:55:15.468: [13879/13879] [PARSE DICO] - Queue parse dictionary service
+21 mai 2024 20:55:15.469: [13879/13879] [PARSE DICO] - Check if need online update
+21 mai 2024 21:27:17.509: [13879/13879] [PARSE DICO] - Queue parse dictionary service
+21 mai 2024 21:27:17.512: [13879/13879] [PARSE DICO] - Check if need online update
+2 juin 2024 10:00:02.812: [29022/29022] [PARSE DICO] - Queue parse dictionary service
+2 juin 2024 10:00:02.821: [29022/29022] [PARSE DICO] - Start Service ParseDictionary
+2 juin 2024 10:00:02.891: [29022/29111] [PARSE DICO] - onHandleIntent START
+2 juin 2024 10:00:02.893: [29022/29111] [PARSE DICO] - Acquire wake lock...
+2 juin 2024 10:00:02.896: [29022/29111] [PARSE DICO] - Acquire wake lock done
+2 juin 2024 10:00:02.898: [29022/29111] [PARSE DICO] - Read version file and convert to json...
+2 juin 2024 10:00:02.901: [29022/29111] [PARSE DICO] - Version file read done
+2 juin 2024 10:00:02.903: [29022/29111] [PARSE DICO] - check if need local update...
+2 juin 2024 10:00:02.905: [29022/29111] [PARSE DICO] - check if need local update done
+2 juin 2024 10:00:02.909: [29022/29111] [PARSE DICO] - Start dictionary update service
+2 juin 2024 10:01:48.943: [29369/29369] [PARSE DICO] - Queue parse dictionary service
+2 juin 2024 10:01:48.946: [29369/29369] [PARSE DICO] - Start Service ParseDictionary
+2 juin 2024 10:01:48.990: [29369/29459] [PARSE DICO] - onHandleIntent START
+2 juin 2024 10:01:48.997: [29369/29459] [PARSE DICO] - Acquire wake lock...
+2 juin 2024 10:01:49.6: [29369/29459] [PARSE DICO] - Acquire wake lock done
+2 juin 2024 10:01:49.14: [29369/29459] [PARSE DICO] - Read version file and convert to json...
+2 juin 2024 10:01:49.16: [29369/29459] [PARSE DICO] - Version file read done
+2 juin 2024 10:01:49.17: [29369/29459] [PARSE DICO] - check if need local update...
+2 juin 2024 10:01:49.24: [29369/29459] [PARSE DICO] - check if need local update done
+2 juin 2024 10:01:49.27: [29369/29459] [PARSE DICO] - Start dictionary update service
+7 juin 2024 19:07:18.741: [23362/23362] [PARSE DICO] - Queue parse dictionary service
+7 juin 2024 19:07:18.746: [23362/23362] [PARSE DICO] - Start Service ParseDictionary
+7 juin 2024 19:07:18.809: [23362/23450] [PARSE DICO] - onHandleIntent START
+7 juin 2024 19:07:18.811: [23362/23450] [PARSE DICO] - Acquire wake lock...
+7 juin 2024 19:07:18.814: [23362/23450] [PARSE DICO] - Acquire wake lock done
+7 juin 2024 19:07:18.816: [23362/23450] [PARSE DICO] - Read version file and convert to json...
+7 juin 2024 19:07:18.817: [23362/23450] [PARSE DICO] - Version file read done
+7 juin 2024 19:07:18.818: [23362/23450] [PARSE DICO] - check if need local update...
+7 juin 2024 19:07:18.819: [23362/23450] [PARSE DICO] - check if need local update done
+7 juin 2024 19:07:18.820: [23362/23450] [PARSE DICO] - Start dictionary update service
+7 juin 2024 19:08:02.573: [23362/23362] [PARSE DICO] - Queue parse dictionary service
+7 juin 2024 19:08:02.578: [23362/23362] [PARSE DICO] - Check if need online update
+7 juin 2024 19:11:34.626: [23362/23362] [PARSE DICO] - Queue parse dictionary service
+7 juin 2024 19:11:34.630: [23362/23362] [PARSE DICO] - Check if need online update
+7 juin 2024 19:12:28.232: [23362/23362] [PARSE DICO] - Queue parse dictionary service
+7 juin 2024 19:12:28.234: [23362/23362] [PARSE DICO] - Check if need online update
+7 juin 2024 19:17:06.257: [23362/23362] [PARSE DICO] - Queue parse dictionary service
+7 juin 2024 19:17:06.260: [23362/23362] [PARSE DICO] - Check if need online update
+7 juin 2024 19:25:39.82: [23362/23362] [PARSE DICO] - Queue parse dictionary service
+7 juin 2024 19:25:39.84: [23362/23362] [PARSE DICO] - Check if need online update
+8 juin 2024 13:29:23.776: [8413/8413] [PARSE DICO] - Queue parse dictionary service
+8 juin 2024 13:29:23.799: [8413/8413] [PARSE DICO] - Start Service ParseDictionary
+8 juin 2024 13:29:23.837: [8413/8525] [PARSE DICO] - onHandleIntent START
+8 juin 2024 13:29:23.838: [8413/8525] [PARSE DICO] - Acquire wake lock...
+8 juin 2024 13:29:23.844: [8413/8525] [PARSE DICO] - Acquire wake lock done
+8 juin 2024 13:29:23.847: [8413/8525] [PARSE DICO] - Read version file and convert to json...
+8 juin 2024 13:29:23.848: [8413/8525] [PARSE DICO] - Version file read done
+8 juin 2024 13:29:23.850: [8413/8525] [PARSE DICO] - check if need local update...
+8 juin 2024 13:29:23.851: [8413/8525] [PARSE DICO] - check if need local update done
+8 juin 2024 13:29:23.854: [8413/8525] [PARSE DICO] - Start dictionary update service
+13 juin 2024 03:01:34.154: [25116/25116] [PARSE DICO] - Queue parse dictionary service
+13 juin 2024 03:01:34.158: [25116/25116] [PARSE DICO] - Start Service ParseDictionary
+13 juin 2024 03:01:34.247: [25116/26858] [PARSE DICO] - onHandleIntent START
+13 juin 2024 03:01:34.249: [25116/26858] [PARSE DICO] - Acquire wake lock...
+13 juin 2024 03:01:34.253: [25116/26858] [PARSE DICO] - Acquire wake lock done
+13 juin 2024 03:01:34.255: [25116/26858] [PARSE DICO] - Read version file and convert to json...
+13 juin 2024 03:01:34.258: [25116/26858] [PARSE DICO] - Version file read done
+13 juin 2024 03:01:34.260: [25116/26858] [PARSE DICO] - check if need local update...
+13 juin 2024 03:01:34.262: [25116/26858] [PARSE DICO] - check if need local update done
+13 juin 2024 03:01:34.267: [25116/26858] [PARSE DICO] - Start dictionary update service
+13 juin 2024 03:02:23.83: [25116/25116] [PARSE DICO] - Queue parse dictionary service
+13 juin 2024 03:02:23.92: [25116/25116] [PARSE DICO] - Check if need online update
+13 juin 2024 03:02:42.229: [25116/25116] [PARSE DICO] - Queue parse dictionary service
+13 juin 2024 03:02:42.231: [25116/25116] [PARSE DICO] - Check if need online update
+13 juin 2024 03:02:46.713: [25116/25116] [PARSE DICO] - Queue parse dictionary service
+13 juin 2024 03:02:46.718: [25116/25116] [PARSE DICO] - Check if need online update
+13 juin 2024 03:03:01.876: [25116/25116] [PARSE DICO] - Queue parse dictionary service
+13 juin 2024 03:03:01.881: [25116/25116] [PARSE DICO] - Check if need online update
+14 juin 2024 11:26:08.536: [24366/24366] [PARSE DICO] - Queue parse dictionary service
+14 juin 2024 11:26:08.540: [24366/24366] [PARSE DICO] - Start Service ParseDictionary
+14 juin 2024 11:26:08.835: [24366/24469] [PARSE DICO] - onHandleIntent START
+14 juin 2024 11:26:08.836: [24366/24469] [PARSE DICO] - Acquire wake lock...
+14 juin 2024 11:26:08.841: [24366/24469] [PARSE DICO] - Acquire wake lock done
+14 juin 2024 11:26:08.845: [24366/24469] [PARSE DICO] - Read version file and convert to json...
+14 juin 2024 11:26:08.852: [24366/24469] [PARSE DICO] - Version file read done
+14 juin 2024 11:26:08.855: [24366/24469] [PARSE DICO] - check if need local update...
+14 juin 2024 11:26:08.857: [24366/24469] [PARSE DICO] - check if need local update done
+14 juin 2024 11:26:08.867: [24366/24469] [PARSE DICO] - Start dictionary update service
+18 juin 2024 11:55:17.826: [32003/32003] [PARSE DICO] - Queue parse dictionary service
+18 juin 2024 11:55:17.829: [32003/32003] [PARSE DICO] - Start Service ParseDictionary
+18 juin 2024 11:55:17.872: [32003/32089] [PARSE DICO] - onHandleIntent START
+18 juin 2024 11:55:17.875: [32003/32089] [PARSE DICO] - Acquire wake lock...
+18 juin 2024 11:55:17.879: [32003/32089] [PARSE DICO] - Acquire wake lock done
+18 juin 2024 11:55:17.881: [32003/32089] [PARSE DICO] - Read version file and convert to json...
+18 juin 2024 11:55:17.883: [32003/32089] [PARSE DICO] - Version file read done
+18 juin 2024 11:55:17.887: [32003/32089] [PARSE DICO] - check if need local update...
+18 juin 2024 11:55:17.889: [32003/32089] [PARSE DICO] - check if need local update done
+18 juin 2024 11:55:17.890: [32003/32089] [PARSE DICO] - Start dictionary update service
+18 juin 2024 19:01:49.177: [11500/11500] [PARSE DICO] - Queue parse dictionary service
+18 juin 2024 19:01:49.179: [11500/11500] [PARSE DICO] - Start Service ParseDictionary
+18 juin 2024 19:01:49.227: [11500/11588] [PARSE DICO] - onHandleIntent START
+18 juin 2024 19:01:49.232: [11500/11588] [PARSE DICO] - Acquire wake lock...
+18 juin 2024 19:01:49.235: [11500/11588] [PARSE DICO] - Acquire wake lock done
+18 juin 2024 19:01:49.239: [11500/11588] [PARSE DICO] - Read version file and convert to json...
+18 juin 2024 19:01:49.242: [11500/11588] [PARSE DICO] - Version file read done
+18 juin 2024 19:01:49.243: [11500/11588] [PARSE DICO] - check if need local update...
+18 juin 2024 19:01:49.244: [11500/11588] [PARSE DICO] - check if need local update done
+18 juin 2024 19:01:49.246: [11500/11588] [PARSE DICO] - Start dictionary update service
+18 juin 2024 19:02:21.929: [11500/11500] [PARSE DICO] - Queue parse dictionary service
+18 juin 2024 19:02:21.930: [11500/11500] [PARSE DICO] - Check if need online update
+18 juin 2024 19:05:34.342: [11500/11500] [PARSE DICO] - Queue parse dictionary service
+18 juin 2024 19:05:34.346: [11500/11500] [PARSE DICO] - Check if need online update
+20 juin 2024 09:56:34.253: [12696/12696] [PARSE DICO] - Queue parse dictionary service
+20 juin 2024 09:56:34.261: [12696/12696] [PARSE DICO] - Start Service ParseDictionary
+20 juin 2024 09:56:34.303: [12696/12784] [PARSE DICO] - onHandleIntent START
+20 juin 2024 09:56:34.305: [12696/12784] [PARSE DICO] - Acquire wake lock...
+20 juin 2024 09:56:34.309: [12696/12784] [PARSE DICO] - Acquire wake lock done
+20 juin 2024 09:56:34.312: [12696/12784] [PARSE DICO] - Read version file and convert to json...
+20 juin 2024 09:56:34.317: [12696/12784] [PARSE DICO] - Version file read done
+20 juin 2024 09:56:34.321: [12696/12784] [PARSE DICO] - check if need local update...
+20 juin 2024 09:56:34.325: [12696/12784] [PARSE DICO] - check if need local update done
+20 juin 2024 09:56:34.332: [12696/12784] [PARSE DICO] - Start dictionary update service
+21 juin 2024 09:37:11.842: [6170/6170] [PARSE DICO] - Queue parse dictionary service
+21 juin 2024 09:37:11.849: [6170/6170] [PARSE DICO] - Start Service ParseDictionary
+21 juin 2024 09:37:12.105: [6170/6262] [PARSE DICO] - onHandleIntent START
+21 juin 2024 09:37:12.106: [6170/6262] [PARSE DICO] - Acquire wake lock...
+21 juin 2024 09:37:12.111: [6170/6262] [PARSE DICO] - Acquire wake lock done
+21 juin 2024 09:37:12.113: [6170/6262] [PARSE DICO] - Read version file and convert to json...
+21 juin 2024 09:37:12.115: [6170/6262] [PARSE DICO] - Version file read done
+21 juin 2024 09:37:12.116: [6170/6262] [PARSE DICO] - check if need local update...
+21 juin 2024 09:37:12.117: [6170/6262] [PARSE DICO] - check if need local update done
+21 juin 2024 09:37:12.119: [6170/6262] [PARSE DICO] - Start dictionary update service
+21 juin 2024 09:37:40.750: [6170/6170] [PARSE DICO] - Queue parse dictionary service
+21 juin 2024 09:37:40.751: [6170/6170] [PARSE DICO] - Check if need online update
+21 juin 2024 09:38:38.46: [6170/6170] [PARSE DICO] - Queue parse dictionary service
+21 juin 2024 09:38:38.49: [6170/6170] [PARSE DICO] - Check if need online update
+23 juin 2024 20:44:51.362: [2379/2379] [PARSE DICO] - Queue parse dictionary service
+23 juin 2024 20:44:51.366: [2379/2379] [PARSE DICO] - Start Service ParseDictionary
+23 juin 2024 20:44:51.429: [2379/2498] [PARSE DICO] - onHandleIntent START
+23 juin 2024 20:44:51.432: [2379/2498] [PARSE DICO] - Acquire wake lock...
+23 juin 2024 20:44:51.436: [2379/2498] [PARSE DICO] - Acquire wake lock done
+23 juin 2024 20:44:51.438: [2379/2498] [PARSE DICO] - Read version file and convert to json...
+23 juin 2024 20:44:51.442: [2379/2498] [PARSE DICO] - Version file read done
+23 juin 2024 20:44:51.445: [2379/2498] [PARSE DICO] - check if need local update...
+23 juin 2024 20:44:51.452: [2379/2498] [PARSE DICO] - check if need local update done
+23 juin 2024 20:44:51.456: [2379/2498] [PARSE DICO] - Start dictionary update service
+23 juin 2024 22:16:00.108: [18787/18787] [PARSE DICO] - Queue parse dictionary service
+23 juin 2024 22:16:00.111: [18787/18787] [PARSE DICO] - Start Service ParseDictionary
+23 juin 2024 22:16:00.153: [18787/18875] [PARSE DICO] - onHandleIntent START
+23 juin 2024 22:16:00.156: [18787/18875] [PARSE DICO] - Acquire wake lock...
+23 juin 2024 22:16:00.165: [18787/18875] [PARSE DICO] - Acquire wake lock done
+23 juin 2024 22:16:00.167: [18787/18875] [PARSE DICO] - Read version file and convert to json...
+23 juin 2024 22:16:00.173: [18787/18875] [PARSE DICO] - Version file read done
+23 juin 2024 22:16:00.176: [18787/18875] [PARSE DICO] - check if need local update...
+23 juin 2024 22:16:00.179: [18787/18875] [PARSE DICO] - check if need local update done
+23 juin 2024 22:16:00.181: [18787/18875] [PARSE DICO] - Start dictionary update service
+24 juin 2024 11:37:46.539: [26327/26327] [PARSE DICO] - Queue parse dictionary service
+24 juin 2024 11:37:46.542: [26327/26327] [PARSE DICO] - Start Service ParseDictionary
+24 juin 2024 11:37:46.602: [26327/26483] [PARSE DICO] - onHandleIntent START
+24 juin 2024 11:37:46.605: [26327/26483] [PARSE DICO] - Acquire wake lock...
+24 juin 2024 11:37:46.608: [26327/26483] [PARSE DICO] - Acquire wake lock done
+24 juin 2024 11:37:46.611: [26327/26483] [PARSE DICO] - Read version file and convert to json...
+24 juin 2024 11:37:46.615: [26327/26483] [PARSE DICO] - Version file read done
+24 juin 2024 11:37:46.616: [26327/26483] [PARSE DICO] - check if need local update...
+24 juin 2024 11:37:46.617: [26327/26483] [PARSE DICO] - check if need local update done
+24 juin 2024 11:37:46.618: [26327/26483] [PARSE DICO] - Start dictionary update service
+24 juin 2024 11:41:05.981: [26327/26327] [PARSE DICO] - Queue parse dictionary service
+24 juin 2024 11:41:05.983: [26327/26327] [PARSE DICO] - Check if need online update
+24 juin 2024 11:42:41.253: [26327/26327] [PARSE DICO] - Queue parse dictionary service
+24 juin 2024 11:42:41.256: [26327/26327] [PARSE DICO] - Check if need online update
+3 juil. 2024 21:30:43.305: [13536/13536] [PARSE DICO] - Queue parse dictionary service
+3 juil. 2024 21:30:43.308: [13536/13536] [PARSE DICO] - Start Service ParseDictionary
+3 juil. 2024 21:30:43.341: [13536/13624] [PARSE DICO] - onHandleIntent START
+3 juil. 2024 21:30:43.342: [13536/13624] [PARSE DICO] - Acquire wake lock...
+3 juil. 2024 21:30:43.345: [13536/13624] [PARSE DICO] - Acquire wake lock done
+3 juil. 2024 21:30:43.346: [13536/13624] [PARSE DICO] - Read version file and convert to json...
+3 juil. 2024 21:30:43.348: [13536/13624] [PARSE DICO] - Version file read done
+3 juil. 2024 21:30:43.351: [13536/13624] [PARSE DICO] - check if need local update...
+3 juil. 2024 21:30:43.355: [13536/13624] [PARSE DICO] - check if need local update done
+3 juil. 2024 21:30:43.357: [13536/13624] [PARSE DICO] - Start dictionary update service
+5 juil. 2024 18:55:47.496: [17589/17589] [PARSE DICO] - Queue parse dictionary service
+5 juil. 2024 18:55:47.499: [17589/17589] [PARSE DICO] - Start Service ParseDictionary
+5 juil. 2024 18:55:47.685: [17589/18132] [PARSE DICO] - onHandleIntent START
+5 juil. 2024 18:55:47.687: [17589/18132] [PARSE DICO] - Acquire wake lock...
+5 juil. 2024 18:55:47.694: [17589/18132] [PARSE DICO] - Acquire wake lock done
+5 juil. 2024 18:55:47.699: [17589/18132] [PARSE DICO] - Read version file and convert to json...
+5 juil. 2024 18:55:47.706: [17589/18132] [PARSE DICO] - Version file read done
+5 juil. 2024 18:55:47.707: [17589/18132] [PARSE DICO] - check if need local update...
+5 juil. 2024 18:55:47.708: [17589/18132] [PARSE DICO] - check if need local update done
+5 juil. 2024 18:55:47.711: [17589/18132] [PARSE DICO] - Start dictionary update service
+8 juil. 2024 22:20:31.827: [7952/7952] [PARSE DICO] - Queue parse dictionary service
+8 juil. 2024 22:20:31.829: [7952/7952] [PARSE DICO] - Start Service ParseDictionary
+8 juil. 2024 22:20:31.869: [7952/8203] [PARSE DICO] - onHandleIntent START
+8 juil. 2024 22:20:31.871: [7952/8203] [PARSE DICO] - Acquire wake lock...
+8 juil. 2024 22:20:31.873: [7952/8203] [PARSE DICO] - Acquire wake lock done
+8 juil. 2024 22:20:31.875: [7952/8203] [PARSE DICO] - Read version file and convert to json...
+8 juil. 2024 22:20:31.878: [7952/8203] [PARSE DICO] - Version file read done
+8 juil. 2024 22:20:31.880: [7952/8203] [PARSE DICO] - check if need local update...
+8 juil. 2024 22:20:31.881: [7952/8203] [PARSE DICO] - check if need local update done
+8 juil. 2024 22:20:31.882: [7952/8203] [PARSE DICO] - Start dictionary update service
+21 juil. 2024 21:39:32.227: [10768/10768] [PARSE DICO] - Queue parse dictionary service
+21 juil. 2024 21:39:32.229: [10768/10768] [PARSE DICO] - Start Service ParseDictionary
+21 juil. 2024 21:39:32.282: [10768/11768] [PARSE DICO] - onHandleIntent START
+21 juil. 2024 21:39:32.285: [10768/11768] [PARSE DICO] - Acquire wake lock...
+21 juil. 2024 21:39:32.290: [10768/11768] [PARSE DICO] - Acquire wake lock done
+21 juil. 2024 21:39:32.292: [10768/11768] [PARSE DICO] - Read version file and convert to json...
+21 juil. 2024 21:39:32.297: [10768/11768] [PARSE DICO] - Version file read done
+21 juil. 2024 21:39:32.302: [10768/11768] [PARSE DICO] - check if need local update...
+21 juil. 2024 21:39:32.305: [10768/11768] [PARSE DICO] - check if need local update done
+21 juil. 2024 21:39:32.307: [10768/11768] [PARSE DICO] - Start dictionary update service
+25 juil. 2024 22:40:35.455: [25202/25202] [PARSE DICO] - Queue parse dictionary service
+25 juil. 2024 22:40:35.458: [25202/25202] [PARSE DICO] - Start Service ParseDictionary
+25 juil. 2024 22:40:35.499: [25202/25303] [PARSE DICO] - onHandleIntent START
+25 juil. 2024 22:40:35.502: [25202/25303] [PARSE DICO] - Acquire wake lock...
+25 juil. 2024 22:40:35.505: [25202/25303] [PARSE DICO] - Acquire wake lock done
+25 juil. 2024 22:40:35.507: [25202/25303] [PARSE DICO] - Read version file and convert to json...
+25 juil. 2024 22:40:35.510: [25202/25303] [PARSE DICO] - Version file read done
+25 juil. 2024 22:40:35.511: [25202/25303] [PARSE DICO] - check if need local update...
+25 juil. 2024 22:40:35.514: [25202/25303] [PARSE DICO] - check if need local update done
+25 juil. 2024 22:40:35.515: [25202/25303] [PARSE DICO] - Start dictionary update service
+26 juil. 2024 02:28:28.638: [25202/25202] [PARSE DICO] - Queue parse dictionary service
+26 juil. 2024 02:28:28.642: [25202/25202] [PARSE DICO] - Check if need online update
+26 juil. 2024 02:30:45.744: [25202/25202] [PARSE DICO] - Queue parse dictionary service
+26 juil. 2024 02:30:45.745: [25202/25202] [PARSE DICO] - Check if need online update
+26 juil. 2024 02:30:53.197: [25202/25202] [PARSE DICO] - Queue parse dictionary service
+26 juil. 2024 02:30:53.201: [25202/25202] [PARSE DICO] - Check if need online update
+26 juil. 2024 22:26:16.919: [28695/28695] [PARSE DICO] - Queue parse dictionary service
+26 juil. 2024 22:26:16.926: [28695/28695] [PARSE DICO] - Start Service ParseDictionary
+26 juil. 2024 22:26:16.985: [28695/28785] [PARSE DICO] - onHandleIntent START
+26 juil. 2024 22:26:16.987: [28695/28785] [PARSE DICO] - Acquire wake lock...
+26 juil. 2024 22:26:16.991: [28695/28785] [PARSE DICO] - Acquire wake lock done
+26 juil. 2024 22:26:16.992: [28695/28785] [PARSE DICO] - Read version file and convert to json...
+26 juil. 2024 22:26:16.995: [28695/28785] [PARSE DICO] - Version file read done
+26 juil. 2024 22:26:16.996: [28695/28785] [PARSE DICO] - check if need local update...
+26 juil. 2024 22:26:16.998: [28695/28785] [PARSE DICO] - check if need local update done
+26 juil. 2024 22:26:17.2: [28695/28785] [PARSE DICO] - Start dictionary update service
+28 juil. 2024 07:20:16.375: [25489/25489] [PARSE DICO] - Queue parse dictionary service
+28 juil. 2024 07:20:16.377: [25489/25489] [PARSE DICO] - Start Service ParseDictionary
+28 juil. 2024 07:20:16.670: [25489/25685] [PARSE DICO] - onHandleIntent START
+28 juil. 2024 07:20:16.675: [25489/25685] [PARSE DICO] - Acquire wake lock...
+28 juil. 2024 07:20:16.682: [25489/25685] [PARSE DICO] - Acquire wake lock done
+28 juil. 2024 07:20:16.688: [25489/25685] [PARSE DICO] - Read version file and convert to json...
+28 juil. 2024 07:20:16.696: [25489/25685] [PARSE DICO] - Version file read done
+28 juil. 2024 07:20:16.702: [25489/25685] [PARSE DICO] - check if need local update...
+28 juil. 2024 07:20:16.708: [25489/25685] [PARSE DICO] - check if need local update done
+28 juil. 2024 07:20:16.715: [25489/25685] [PARSE DICO] - Start dictionary update service
+29 juil. 2024 17:15:55.687: [29458/29458] [PARSE DICO] - Queue parse dictionary service
+29 juil. 2024 17:15:55.689: [29458/29458] [PARSE DICO] - Start Service ParseDictionary
+29 juil. 2024 17:15:55.745: [29458/30824] [PARSE DICO] - onHandleIntent START
+29 juil. 2024 17:15:55.747: [29458/30824] [PARSE DICO] - Acquire wake lock...
+29 juil. 2024 17:15:55.751: [29458/30824] [PARSE DICO] - Acquire wake lock done
+29 juil. 2024 17:15:55.755: [29458/30824] [PARSE DICO] - Read version file and convert to json...
+29 juil. 2024 17:15:55.759: [29458/30824] [PARSE DICO] - Version file read done
+29 juil. 2024 17:15:55.763: [29458/30824] [PARSE DICO] - check if need local update...
+29 juil. 2024 17:15:55.767: [29458/30824] [PARSE DICO] - check if need local update done
+29 juil. 2024 17:15:55.771: [29458/30824] [PARSE DICO] - Start dictionary update service
+1 août 2024 03:09:03.8: [4340/4340] [PARSE DICO] - Queue parse dictionary service
+1 août 2024 03:09:03.10: [4340/4340] [PARSE DICO] - Start Service ParseDictionary
+1 août 2024 03:09:03.48: [4340/4434] [PARSE DICO] - onHandleIntent START
+1 août 2024 03:09:03.60: [4340/4434] [PARSE DICO] - Acquire wake lock...
+1 août 2024 03:09:03.72: [4340/4434] [PARSE DICO] - Acquire wake lock done
+1 août 2024 03:09:03.81: [4340/4434] [PARSE DICO] - Read version file and convert to json...
+1 août 2024 03:09:03.96: [4340/4434] [PARSE DICO] - Version file read done
+1 août 2024 03:09:03.101: [4340/4434] [PARSE DICO] - check if need local update...
+1 août 2024 03:09:03.118: [4340/4434] [PARSE DICO] - check if need local update done
+1 août 2024 03:09:03.125: [4340/4434] [PARSE DICO] - Start dictionary update service
+2 août 2024 21:44:26.889: [18258/18258] [PARSE DICO] - Queue parse dictionary service
+2 août 2024 21:44:26.891: [18258/18258] [PARSE DICO] - Start Service ParseDictionary
+2 août 2024 21:44:26.936: [18258/18559] [PARSE DICO] - onHandleIntent START
+2 août 2024 21:44:26.937: [18258/18559] [PARSE DICO] - Acquire wake lock...
+2 août 2024 21:44:26.940: [18258/18559] [PARSE DICO] - Acquire wake lock done
+2 août 2024 21:44:26.943: [18258/18559] [PARSE DICO] - Read version file and convert to json...
+2 août 2024 21:44:26.946: [18258/18559] [PARSE DICO] - Version file read done
+2 août 2024 21:44:26.948: [18258/18559] [PARSE DICO] - check if need local update...
+2 août 2024 21:44:26.949: [18258/18559] [PARSE DICO] - check if need local update done
+2 août 2024 21:44:26.951: [18258/18559] [PARSE DICO] - Start dictionary update service
+3 août 2024 01:06:13.267: [15931/15931] [PARSE DICO] - Queue parse dictionary service
+3 août 2024 01:06:13.270: [15931/15931] [PARSE DICO] - Start Service ParseDictionary
+3 août 2024 01:06:13.300: [15931/16022] [PARSE DICO] - onHandleIntent START
+3 août 2024 01:06:13.305: [15931/16022] [PARSE DICO] - Acquire wake lock...
+3 août 2024 01:06:13.309: [15931/16022] [PARSE DICO] - Acquire wake lock done
+3 août 2024 01:06:13.311: [15931/16022] [PARSE DICO] - Read version file and convert to json...
+3 août 2024 01:06:13.312: [15931/16022] [PARSE DICO] - Version file read done
+3 août 2024 01:06:13.313: [15931/16022] [PARSE DICO] - check if need local update...
+3 août 2024 01:06:13.316: [15931/16022] [PARSE DICO] - check if need local update done
+3 août 2024 01:06:13.319: [15931/16022] [PARSE DICO] - Start dictionary update service
+5 août 2024 11:33:23.452: [30432/30432] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 11:33:23.458: [30432/30432] [PARSE DICO] - Start Service ParseDictionary
+5 août 2024 11:33:23.498: [30432/30516] [PARSE DICO] - onHandleIntent START
+5 août 2024 11:33:23.503: [30432/30516] [PARSE DICO] - Acquire wake lock...
+5 août 2024 11:33:23.510: [30432/30516] [PARSE DICO] - Acquire wake lock done
+5 août 2024 11:33:23.513: [30432/30516] [PARSE DICO] - Read version file and convert to json...
+5 août 2024 11:33:23.517: [30432/30516] [PARSE DICO] - Version file read done
+5 août 2024 11:33:23.520: [30432/30516] [PARSE DICO] - check if need local update...
+5 août 2024 11:33:23.523: [30432/30516] [PARSE DICO] - check if need local update done
+5 août 2024 11:33:23.526: [30432/30516] [PARSE DICO] - Start dictionary update service
+5 août 2024 11:38:49.142: [30432/30432] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 11:38:49.143: [30432/30432] [PARSE DICO] - Check if need online update
+5 août 2024 12:53:41.449: [10883/10883] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 12:53:41.456: [10883/10883] [PARSE DICO] - Start Service ParseDictionary
+5 août 2024 12:53:41.497: [10883/12026] [PARSE DICO] - onHandleIntent START
+5 août 2024 12:53:41.498: [10883/12026] [PARSE DICO] - Acquire wake lock...
+5 août 2024 12:53:41.502: [10883/12026] [PARSE DICO] - Acquire wake lock done
+5 août 2024 12:53:41.504: [10883/12026] [PARSE DICO] - Read version file and convert to json...
+5 août 2024 12:53:41.507: [10883/12026] [PARSE DICO] - Version file read done
+5 août 2024 12:53:41.508: [10883/12026] [PARSE DICO] - check if need local update...
+5 août 2024 12:53:41.509: [10883/12026] [PARSE DICO] - check if need local update done
+5 août 2024 12:53:41.514: [10883/12026] [PARSE DICO] - Start dictionary update service
+5 août 2024 17:07:40.629: [30974/30974] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 17:07:40.640: [30974/30974] [PARSE DICO] - Start Service ParseDictionary
+5 août 2024 17:07:40.730: [30974/1872] [PARSE DICO] - onHandleIntent START
+5 août 2024 17:07:40.734: [30974/1872] [PARSE DICO] - Acquire wake lock...
+5 août 2024 17:07:40.739: [30974/1872] [PARSE DICO] - Acquire wake lock done
+5 août 2024 17:07:40.743: [30974/1872] [PARSE DICO] - Read version file and convert to json...
+5 août 2024 17:07:40.750: [30974/1872] [PARSE DICO] - Version file read done
+5 août 2024 17:07:40.751: [30974/1872] [PARSE DICO] - check if need local update...
+5 août 2024 17:07:40.754: [30974/1872] [PARSE DICO] - check if need local update done
+5 août 2024 17:07:40.755: [30974/1872] [PARSE DICO] - Start dictionary update service
+5 août 2024 17:08:35.240: [2424/2424] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 17:08:35.243: [2424/2424] [PARSE DICO] - Start Service ParseDictionary
+5 août 2024 17:08:35.546: [2424/2557] [PARSE DICO] - onHandleIntent START
+5 août 2024 17:08:35.548: [2424/2557] [PARSE DICO] - Acquire wake lock...
+5 août 2024 17:08:35.551: [2424/2557] [PARSE DICO] - Acquire wake lock done
+5 août 2024 17:08:35.553: [2424/2557] [PARSE DICO] - Read version file and convert to json...
+5 août 2024 17:08:35.556: [2424/2557] [PARSE DICO] - Version file read done
+5 août 2024 17:08:35.560: [2424/2557] [PARSE DICO] - check if need local update...
+5 août 2024 17:08:35.562: [2424/2557] [PARSE DICO] - check if need local update done
+5 août 2024 17:08:35.563: [2424/2557] [PARSE DICO] - Start dictionary update service
+5 août 2024 17:29:20.330: [2424/2424] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 17:29:20.333: [2424/2424] [PARSE DICO] - Check if need online update
+5 août 2024 17:36:14.770: [2424/2424] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 17:36:14.773: [2424/2424] [PARSE DICO] - Check if need online update
+5 août 2024 17:36:24.205: [2424/2424] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 17:36:24.206: [2424/2424] [PARSE DICO] - Check if need online update
+5 août 2024 17:37:43.279: [2424/2424] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 17:37:43.281: [2424/2424] [PARSE DICO] - Check if need online update
+5 août 2024 17:53:30.932: [2424/2424] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 17:53:30.935: [2424/2424] [PARSE DICO] - Check if need online update
+5 août 2024 17:58:33.453: [10322/10322] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 17:58:33.458: [10322/10322] [PARSE DICO] - Start Service ParseDictionary
+5 août 2024 17:58:33.652: [10322/10515] [PARSE DICO] - onHandleIntent START
+5 août 2024 17:58:33.653: [10322/10515] [PARSE DICO] - Acquire wake lock...
+5 août 2024 17:58:33.660: [10322/10515] [PARSE DICO] - Acquire wake lock done
+5 août 2024 17:58:33.663: [10322/10515] [PARSE DICO] - Read version file and convert to json...
+5 août 2024 17:58:33.665: [10322/10515] [PARSE DICO] - Version file read done
+5 août 2024 17:58:33.668: [10322/10515] [PARSE DICO] - check if need local update...
+5 août 2024 17:58:33.674: [10322/10515] [PARSE DICO] - check if need local update done
+5 août 2024 17:58:33.677: [10322/10515] [PARSE DICO] - Start dictionary update service
+5 août 2024 18:05:01.493: [10322/10322] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 18:05:01.495: [10322/10322] [PARSE DICO] - Check if need online update
+5 août 2024 18:05:32.343: [10322/10322] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 18:05:32.345: [10322/10322] [PARSE DICO] - Check if need online update
+5 août 2024 18:08:04.88: [10322/10322] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 18:08:04.93: [10322/10322] [PARSE DICO] - Check if need online update
+5 août 2024 18:09:58.125: [10322/10322] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 18:09:58.126: [10322/10322] [PARSE DICO] - Check if need online update
+5 août 2024 18:38:30.483: [10322/10322] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 18:38:30.488: [10322/10322] [PARSE DICO] - Check if need online update
+5 août 2024 18:45:10.731: [10322/10322] [PARSE DICO] - Queue parse dictionary service
+5 août 2024 18:45:10.736: [10322/10322] [PARSE DICO] - Check if need online update
+6 août 2024 00:06:22.761: [4151/4151] [PARSE DICO] - Queue parse dictionary service
+6 août 2024 00:06:22.787: [4151/4151] [PARSE DICO] - Start Service ParseDictionary
+6 août 2024 00:06:22.841: [4151/4435] [PARSE DICO] - onHandleIntent START
+6 août 2024 00:06:22.849: [4151/4435] [PARSE DICO] - Acquire wake lock...
+6 août 2024 00:06:22.857: [4151/4435] [PARSE DICO] - Acquire wake lock done
+6 août 2024 00:06:22.859: [4151/4435] [PARSE DICO] - Read version file and convert to json...
+6 août 2024 00:06:22.865: [4151/4435] [PARSE DICO] - Version file read done
+6 août 2024 00:06:22.867: [4151/4435] [PARSE DICO] - check if need local update...
+6 août 2024 00:06:22.876: [4151/4435] [PARSE DICO] - check if need local update done
+6 août 2024 00:06:22.877: [4151/4435] [PARSE DICO] - Start dictionary update service
+6 août 2024 11:43:57.950: [10023/10023] [PARSE DICO] - Queue parse dictionary service
+6 août 2024 11:43:57.952: [10023/10023] [PARSE DICO] - Start Service ParseDictionary
+6 août 2024 11:43:58.133: [10023/11201] [PARSE DICO] - onHandleIntent START
+6 août 2024 11:43:58.135: [10023/11201] [PARSE DICO] - Acquire wake lock...
+6 août 2024 11:43:58.139: [10023/11201] [PARSE DICO] - Acquire wake lock done
+6 août 2024 11:43:58.144: [10023/11201] [PARSE DICO] - Read version file and convert to json...
+6 août 2024 11:43:58.147: [10023/11201] [PARSE DICO] - Version file read done
+6 août 2024 11:43:58.151: [10023/11201] [PARSE DICO] - check if need local update...
+6 août 2024 11:43:58.152: [10023/11201] [PARSE DICO] - check if need local update done
+6 août 2024 11:43:58.154: [10023/11201] [PARSE DICO] - Start dictionary update service
+6 août 2024 12:01:55.954: [10023/10023] [PARSE DICO] - Queue parse dictionary service
+6 août 2024 12:01:55.955: [10023/10023] [PARSE DICO] - Check if need online update
+6 août 2024 15:59:32.548: [14500/14500] [PARSE DICO] - Queue parse dictionary service
+6 août 2024 15:59:32.551: [14500/14500] [PARSE DICO] - Start Service ParseDictionary
+6 août 2024 15:59:32.598: [14500/15605] [PARSE DICO] - onHandleIntent START
+6 août 2024 15:59:32.605: [14500/15605] [PARSE DICO] - Acquire wake lock...
+6 août 2024 15:59:32.608: [14500/15605] [PARSE DICO] - Acquire wake lock done
+6 août 2024 15:59:32.609: [14500/15605] [PARSE DICO] - Read version file and convert to json...
+6 août 2024 15:59:32.619: [14500/15605] [PARSE DICO] - Version file read done
+6 août 2024 15:59:32.620: [14500/15605] [PARSE DICO] - check if need local update...
+6 août 2024 15:59:32.621: [14500/15605] [PARSE DICO] - check if need local update done
+6 août 2024 15:59:32.622: [14500/15605] [PARSE DICO] - Start dictionary update service
+6 août 2024 20:12:29.123: [6673/6673] [PARSE DICO] - Queue parse dictionary service
+6 août 2024 20:12:29.126: [6673/6673] [PARSE DICO] - Start Service ParseDictionary
+6 août 2024 20:12:29.162: [6673/6762] [PARSE DICO] - onHandleIntent START
+6 août 2024 20:12:29.165: [6673/6762] [PARSE DICO] - Acquire wake lock...
+6 août 2024 20:12:29.170: [6673/6762] [PARSE DICO] - Acquire wake lock done
+6 août 2024 20:12:29.171: [6673/6762] [PARSE DICO] - Read version file and convert to json...
+6 août 2024 20:12:29.173: [6673/6762] [PARSE DICO] - Version file read done
+6 août 2024 20:12:29.180: [6673/6762] [PARSE DICO] - check if need local update...
+6 août 2024 20:12:29.182: [6673/6762] [PARSE DICO] - check if need local update done
+6 août 2024 20:12:29.184: [6673/6762] [PARSE DICO] - Start dictionary update service
+7 août 2024 13:35:28.498: [14899/14899] [PARSE DICO] - Queue parse dictionary service
+7 août 2024 13:35:28.501: [14899/14899] [PARSE DICO] - Start Service ParseDictionary
+7 août 2024 13:35:28.776: [14899/15360] [PARSE DICO] - onHandleIntent START
+7 août 2024 13:35:28.777: [14899/15360] [PARSE DICO] - Acquire wake lock...
+7 août 2024 13:35:28.788: [14899/15360] [PARSE DICO] - Acquire wake lock done
+7 août 2024 13:35:28.791: [14899/15360] [PARSE DICO] - Read version file and convert to json...
+7 août 2024 13:35:28.793: [14899/15360] [PARSE DICO] - Version file read done
+7 août 2024 13:35:28.795: [14899/15360] [PARSE DICO] - check if need local update...
+7 août 2024 13:35:28.796: [14899/15360] [PARSE DICO] - check if need local update done
+7 août 2024 13:35:28.798: [14899/15360] [PARSE DICO] - Start dictionary update service
+7 août 2024 13:37:17.464: [14899/14899] [PARSE DICO] - Queue parse dictionary service
+7 août 2024 13:37:17.466: [14899/14899] [PARSE DICO] - Check if need online update
+9 août 2024 17:00:24.965: [2094/2094] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 17:00:24.968: [2094/2094] [PARSE DICO] - Start Service ParseDictionary
+9 août 2024 17:00:25.15: [2094/3689] [PARSE DICO] - onHandleIntent START
+9 août 2024 17:00:25.18: [2094/3689] [PARSE DICO] - Acquire wake lock...
+9 août 2024 17:00:25.21: [2094/3689] [PARSE DICO] - Acquire wake lock done
+9 août 2024 17:00:25.23: [2094/3689] [PARSE DICO] - Read version file and convert to json...
+9 août 2024 17:00:25.26: [2094/3689] [PARSE DICO] - Version file read done
+9 août 2024 17:00:25.30: [2094/3689] [PARSE DICO] - check if need local update...
+9 août 2024 17:00:25.31: [2094/3689] [PARSE DICO] - check if need local update done
+9 août 2024 17:00:25.32: [2094/3689] [PARSE DICO] - Start dictionary update service
+9 août 2024 18:32:16.321: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 18:32:16.328: [9975/9975] [PARSE DICO] - Start Service ParseDictionary
+9 août 2024 18:32:16.368: [9975/10068] [PARSE DICO] - onHandleIntent START
+9 août 2024 18:32:16.373: [9975/10068] [PARSE DICO] - Acquire wake lock...
+9 août 2024 18:32:16.376: [9975/10068] [PARSE DICO] - Acquire wake lock done
+9 août 2024 18:32:16.378: [9975/10068] [PARSE DICO] - Read version file and convert to json...
+9 août 2024 18:32:16.380: [9975/10068] [PARSE DICO] - Version file read done
+9 août 2024 18:32:16.381: [9975/10068] [PARSE DICO] - check if need local update...
+9 août 2024 18:32:16.382: [9975/10068] [PARSE DICO] - check if need local update done
+9 août 2024 18:32:16.384: [9975/10068] [PARSE DICO] - Start dictionary update service
+9 août 2024 18:34:26.131: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 18:34:26.133: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 18:35:06.924: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 18:35:06.931: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:09:59.221: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:09:59.223: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:21:22.641: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:21:22.643: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:27:19.601: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:27:19.603: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:29:38.970: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:29:38.975: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:32:54.652: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:32:54.654: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:38:03.931: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:38:03.934: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:39:41.618: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:39:41.621: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:41:10.452: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:41:10.454: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:44:38.517: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:44:38.518: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:52:57.64: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:52:57.65: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:53:17.819: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:53:17.821: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 21:54:18.843: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 21:54:18.845: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 22:08:09.77: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 22:08:09.79: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 22:14:55.248: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 22:14:55.250: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 22:20:52.684: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 22:20:52.685: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 22:21:31.658: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 22:21:31.659: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 22:52:29.271: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 22:52:29.279: [9975/9975] [PARSE DICO] - Check if need online update
+9 août 2024 22:55:14.793: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+9 août 2024 22:55:14.801: [9975/9975] [PARSE DICO] - Check if need online update
+10 août 2024 00:50:15.555: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 00:50:15.560: [9975/9975] [PARSE DICO] - Check if need online update
+10 août 2024 00:53:52.441: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 00:53:52.443: [9975/9975] [PARSE DICO] - Check if need online update
+10 août 2024 06:21:13.750: [9975/9975] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 06:21:13.752: [9975/9975] [PARSE DICO] - Check if need online update
+10 août 2024 06:22:50.759: [16680/16680] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 06:22:50.764: [16680/16680] [PARSE DICO] - Start Service ParseDictionary
+10 août 2024 06:22:50.792: [16680/16776] [PARSE DICO] - onHandleIntent START
+10 août 2024 06:22:50.794: [16680/16776] [PARSE DICO] - Acquire wake lock...
+10 août 2024 06:22:50.798: [16680/16776] [PARSE DICO] - Acquire wake lock done
+10 août 2024 06:22:50.799: [16680/16776] [PARSE DICO] - Read version file and convert to json...
+10 août 2024 06:22:50.801: [16680/16776] [PARSE DICO] - Version file read done
+10 août 2024 06:22:50.802: [16680/16776] [PARSE DICO] - check if need local update...
+10 août 2024 06:22:50.804: [16680/16776] [PARSE DICO] - check if need local update done
+10 août 2024 06:22:50.806: [16680/16776] [PARSE DICO] - Start dictionary update service
+10 août 2024 06:24:51.719: [16680/16680] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 06:24:51.721: [16680/16680] [PARSE DICO] - Check if need online update
+10 août 2024 08:36:17.831: [16680/16680] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 08:36:17.832: [16680/16680] [PARSE DICO] - Check if need online update
+10 août 2024 08:36:22.93: [16680/16680] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 08:36:22.94: [16680/16680] [PARSE DICO] - Check if need online update
+10 août 2024 13:43:43.988: [26068/26068] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 13:43:43.996: [26068/26068] [PARSE DICO] - Start Service ParseDictionary
+10 août 2024 13:43:44.19: [26068/26186] [PARSE DICO] - onHandleIntent START
+10 août 2024 13:43:44.21: [26068/26186] [PARSE DICO] - Acquire wake lock...
+10 août 2024 13:43:44.24: [26068/26186] [PARSE DICO] - Acquire wake lock done
+10 août 2024 13:43:44.25: [26068/26186] [PARSE DICO] - Read version file and convert to json...
+10 août 2024 13:43:44.27: [26068/26186] [PARSE DICO] - Version file read done
+10 août 2024 13:43:44.27: [26068/26186] [PARSE DICO] - check if need local update...
+10 août 2024 13:43:44.28: [26068/26186] [PARSE DICO] - check if need local update done
+10 août 2024 13:43:44.29: [26068/26186] [PARSE DICO] - Start dictionary update service
+10 août 2024 13:50:04.159: [26068/26068] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 13:50:04.160: [26068/26068] [PARSE DICO] - Check if need online update
+10 août 2024 13:54:51.866: [26068/26068] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 13:54:51.868: [26068/26068] [PARSE DICO] - Check if need online update
+10 août 2024 13:56:00.265: [26068/26068] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 13:56:00.268: [26068/26068] [PARSE DICO] - Check if need online update
+10 août 2024 14:01:27.89: [26068/26068] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 14:01:27.91: [26068/26068] [PARSE DICO] - Check if need online update
+10 août 2024 19:42:49.906: [9484/9484] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 19:42:49.907: [9484/9484] [PARSE DICO] - Start Service ParseDictionary
+10 août 2024 19:42:50.59: [9484/14422] [PARSE DICO] - onHandleIntent START
+10 août 2024 19:42:50.63: [9484/14422] [PARSE DICO] - Acquire wake lock...
+10 août 2024 19:42:50.66: [9484/14422] [PARSE DICO] - Acquire wake lock done
+10 août 2024 19:42:50.68: [9484/14422] [PARSE DICO] - Read version file and convert to json...
+10 août 2024 19:42:50.76: [9484/14422] [PARSE DICO] - Version file read done
+10 août 2024 19:42:50.81: [9484/14422] [PARSE DICO] - check if need local update...
+10 août 2024 19:42:50.83: [9484/14422] [PARSE DICO] - check if need local update done
+10 août 2024 19:42:50.84: [9484/14422] [PARSE DICO] - Start dictionary update service
+10 août 2024 19:50:32.777: [9484/9484] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 19:50:32.779: [9484/9484] [PARSE DICO] - Check if need online update
+10 août 2024 20:48:11.959: [18395/18395] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 20:48:11.965: [18395/18395] [PARSE DICO] - Start Service ParseDictionary
+10 août 2024 20:48:12.152: [18395/20565] [PARSE DICO] - onHandleIntent START
+10 août 2024 20:48:12.155: [18395/20565] [PARSE DICO] - Acquire wake lock...
+10 août 2024 20:48:12.163: [18395/20565] [PARSE DICO] - Acquire wake lock done
+10 août 2024 20:48:12.166: [18395/20565] [PARSE DICO] - Read version file and convert to json...
+10 août 2024 20:48:12.171: [18395/20565] [PARSE DICO] - Version file read done
+10 août 2024 20:48:12.175: [18395/20565] [PARSE DICO] - check if need local update...
+10 août 2024 20:48:12.177: [18395/20565] [PARSE DICO] - check if need local update done
+10 août 2024 20:48:12.180: [18395/20565] [PARSE DICO] - Start dictionary update service
+10 août 2024 20:49:39.713: [18395/18395] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 20:49:39.715: [18395/18395] [PARSE DICO] - Check if need online update
+10 août 2024 20:52:25.983: [18395/18395] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 20:52:25.985: [18395/18395] [PARSE DICO] - Check if need online update
+10 août 2024 20:53:17.9: [18395/18395] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 20:53:17.10: [18395/18395] [PARSE DICO] - Check if need online update
+10 août 2024 20:54:57.873: [18395/18395] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 20:54:57.874: [18395/18395] [PARSE DICO] - Check if need online update
+10 août 2024 21:01:12.261: [18395/18395] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 21:01:12.264: [18395/18395] [PARSE DICO] - Check if need online update
+10 août 2024 21:04:44.968: [18395/18395] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 21:04:44.971: [18395/18395] [PARSE DICO] - Check if need online update
+10 août 2024 21:57:15.968: [18395/18395] [PARSE DICO] - Queue parse dictionary service
+10 août 2024 21:57:15.972: [18395/18395] [PARSE DICO] - Check if need online update
+11 août 2024 00:35:49.623: [1964/1964] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 00:35:49.626: [1964/1964] [PARSE DICO] - Start Service ParseDictionary
+11 août 2024 00:35:49.658: [1964/2104] [PARSE DICO] - onHandleIntent START
+11 août 2024 00:35:49.660: [1964/2104] [PARSE DICO] - Acquire wake lock...
+11 août 2024 00:35:49.664: [1964/2104] [PARSE DICO] - Acquire wake lock done
+11 août 2024 00:35:49.665: [1964/2104] [PARSE DICO] - Read version file and convert to json...
+11 août 2024 00:35:49.669: [1964/2104] [PARSE DICO] - Version file read done
+11 août 2024 00:35:49.672: [1964/2104] [PARSE DICO] - check if need local update...
+11 août 2024 00:35:49.673: [1964/2104] [PARSE DICO] - check if need local update done
+11 août 2024 00:35:49.676: [1964/2104] [PARSE DICO] - Start dictionary update service
+11 août 2024 00:36:02.337: [1964/1964] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 00:36:02.338: [1964/1964] [PARSE DICO] - Check if need online update
+11 août 2024 03:16:32.878: [1964/1964] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 03:16:32.879: [1964/1964] [PARSE DICO] - Check if need online update
+11 août 2024 11:44:46.365: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 11:44:46.371: [7123/7123] [PARSE DICO] - Start Service ParseDictionary
+11 août 2024 11:44:46.418: [7123/10154] [PARSE DICO] - onHandleIntent START
+11 août 2024 11:44:46.419: [7123/10154] [PARSE DICO] - Acquire wake lock...
+11 août 2024 11:44:46.424: [7123/10154] [PARSE DICO] - Acquire wake lock done
+11 août 2024 11:44:46.425: [7123/10154] [PARSE DICO] - Read version file and convert to json...
+11 août 2024 11:44:46.429: [7123/10154] [PARSE DICO] - Version file read done
+11 août 2024 11:44:46.433: [7123/10154] [PARSE DICO] - check if need local update...
+11 août 2024 11:44:46.437: [7123/10154] [PARSE DICO] - check if need local update done
+11 août 2024 11:44:46.439: [7123/10154] [PARSE DICO] - Start dictionary update service
+11 août 2024 15:06:06.603: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 15:06:06.610: [7123/7123] [PARSE DICO] - Check if need online update
+11 août 2024 15:06:37.425: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 15:06:37.426: [7123/7123] [PARSE DICO] - Check if need online update
+11 août 2024 15:08:40.391: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 15:08:40.393: [7123/7123] [PARSE DICO] - Check if need online update
+11 août 2024 15:09:57.321: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 15:09:57.323: [7123/7123] [PARSE DICO] - Check if need online update
+11 août 2024 15:13:56.216: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 15:13:56.219: [7123/7123] [PARSE DICO] - Check if need online update
+11 août 2024 15:19:27.796: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 15:19:27.797: [7123/7123] [PARSE DICO] - Check if need online update
+11 août 2024 15:24:11.730: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 15:24:11.731: [7123/7123] [PARSE DICO] - Check if need online update
+11 août 2024 15:38:11.82: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 15:38:11.88: [7123/7123] [PARSE DICO] - Check if need online update
+11 août 2024 15:40:18.573: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 15:40:18.582: [7123/7123] [PARSE DICO] - Check if need online update
+11 août 2024 15:41:41.202: [7123/7123] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 15:41:41.203: [7123/7123] [PARSE DICO] - Check if need online update
+11 août 2024 20:07:05.190: [11452/11452] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 20:07:05.193: [11452/11452] [PARSE DICO] - Start Service ParseDictionary
+11 août 2024 20:07:05.550: [11452/12066] [PARSE DICO] - onHandleIntent START
+11 août 2024 20:07:05.558: [11452/12066] [PARSE DICO] - Acquire wake lock...
+11 août 2024 20:07:05.562: [11452/12066] [PARSE DICO] - Acquire wake lock done
+11 août 2024 20:07:05.566: [11452/12066] [PARSE DICO] - Read version file and convert to json...
+11 août 2024 20:07:05.569: [11452/12066] [PARSE DICO] - Version file read done
+11 août 2024 20:07:05.572: [11452/12066] [PARSE DICO] - check if need local update...
+11 août 2024 20:07:05.574: [11452/12066] [PARSE DICO] - check if need local update done
+11 août 2024 20:07:05.577: [11452/12066] [PARSE DICO] - Start dictionary update service
+11 août 2024 20:08:18.72: [11452/11452] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 20:08:18.74: [11452/11452] [PARSE DICO] - Check if need online update
+11 août 2024 20:09:39.785: [11452/11452] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 20:09:39.786: [11452/11452] [PARSE DICO] - Check if need online update
+11 août 2024 20:10:21.656: [11452/11452] [PARSE DICO] - Queue parse dictionary service
+11 août 2024 20:10:21.660: [11452/11452] [PARSE DICO] - Check if need online update
+12 août 2024 09:08:42.922: [9142/9142] [PARSE DICO] - Queue parse dictionary service
+12 août 2024 09:08:42.927: [9142/9142] [PARSE DICO] - Start Service ParseDictionary
+12 août 2024 09:08:43.85: [9142/9811] [PARSE DICO] - onHandleIntent START
+12 août 2024 09:08:43.87: [9142/9811] [PARSE DICO] - Acquire wake lock...
+12 août 2024 09:08:43.90: [9142/9811] [PARSE DICO] - Acquire wake lock done
+12 août 2024 09:08:43.95: [9142/9811] [PARSE DICO] - Read version file and convert to json...
+12 août 2024 09:08:43.98: [9142/9811] [PARSE DICO] - Version file read done
+12 août 2024 09:08:43.99: [9142/9811] [PARSE DICO] - check if need local update...
+12 août 2024 09:08:43.100: [9142/9811] [PARSE DICO] - check if need local update done
+12 août 2024 09:08:43.101: [9142/9811] [PARSE DICO] - Start dictionary update service
+12 août 2024 19:09:29.972: [32133/32133] [PARSE DICO] - Queue parse dictionary service
+12 août 2024 19:09:29.978: [32133/32133] [PARSE DICO] - Start Service ParseDictionary
+12 août 2024 19:09:30.66: [32133/8727] [PARSE DICO] - onHandleIntent START
+12 août 2024 19:09:30.67: [32133/8727] [PARSE DICO] - Acquire wake lock...
+12 août 2024 19:09:30.75: [32133/8727] [PARSE DICO] - Acquire wake lock done
+12 août 2024 19:09:30.80: [32133/8727] [PARSE DICO] - Read version file and convert to json...
+12 août 2024 19:09:30.83: [32133/8727] [PARSE DICO] - Version file read done
+12 août 2024 19:09:30.87: [32133/8727] [PARSE DICO] - check if need local update...
+12 août 2024 19:09:30.89: [32133/8727] [PARSE DICO] - check if need local update done
+12 août 2024 19:09:30.91: [32133/8727] [PARSE DICO] - Start dictionary update service
+12 août 2024 19:09:53.264: [32133/32133] [PARSE DICO] - Queue parse dictionary service
+12 août 2024 19:09:53.265: [32133/32133] [PARSE DICO] - Check if need online update
+13 août 2024 08:22:36.908: [2566/2566] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 08:22:36.914: [2566/2566] [PARSE DICO] - Start Service ParseDictionary
+13 août 2024 08:22:36.961: [2566/4324] [PARSE DICO] - onHandleIntent START
+13 août 2024 08:22:36.962: [2566/4324] [PARSE DICO] - Acquire wake lock...
+13 août 2024 08:22:36.964: [2566/4324] [PARSE DICO] - Acquire wake lock done
+13 août 2024 08:22:36.966: [2566/4324] [PARSE DICO] - Read version file and convert to json...
+13 août 2024 08:22:36.969: [2566/4324] [PARSE DICO] - Version file read done
+13 août 2024 08:22:36.971: [2566/4324] [PARSE DICO] - check if need local update...
+13 août 2024 08:22:36.974: [2566/4324] [PARSE DICO] - check if need local update done
+13 août 2024 08:22:36.976: [2566/4324] [PARSE DICO] - Start dictionary update service
+13 août 2024 09:06:14.541: [2566/2566] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 09:06:14.543: [2566/2566] [PARSE DICO] - Check if need online update
+13 août 2024 17:11:34.751: [18855/18855] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 17:11:34.754: [18855/18855] [PARSE DICO] - Start Service ParseDictionary
+13 août 2024 17:11:34.814: [18855/18952] [PARSE DICO] - onHandleIntent START
+13 août 2024 17:11:34.821: [18855/18952] [PARSE DICO] - Acquire wake lock...
+13 août 2024 17:11:34.825: [18855/18952] [PARSE DICO] - Acquire wake lock done
+13 août 2024 17:11:34.828: [18855/18952] [PARSE DICO] - Read version file and convert to json...
+13 août 2024 17:11:34.831: [18855/18952] [PARSE DICO] - Version file read done
+13 août 2024 17:11:34.833: [18855/18952] [PARSE DICO] - check if need local update...
+13 août 2024 17:11:34.835: [18855/18952] [PARSE DICO] - check if need local update done
+13 août 2024 17:11:34.838: [18855/18952] [PARSE DICO] - Start dictionary update service
+13 août 2024 17:30:56.904: [23772/23772] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 17:30:56.907: [23772/23772] [PARSE DICO] - Start Service ParseDictionary
+13 août 2024 17:30:56.969: [23772/23864] [PARSE DICO] - onHandleIntent START
+13 août 2024 17:30:56.973: [23772/23864] [PARSE DICO] - Acquire wake lock...
+13 août 2024 17:30:56.977: [23772/23864] [PARSE DICO] - Acquire wake lock done
+13 août 2024 17:30:56.981: [23772/23864] [PARSE DICO] - Read version file and convert to json...
+13 août 2024 17:30:56.987: [23772/23864] [PARSE DICO] - Version file read done
+13 août 2024 17:30:56.989: [23772/23864] [PARSE DICO] - check if need local update...
+13 août 2024 17:30:56.993: [23772/23864] [PARSE DICO] - check if need local update done
+13 août 2024 17:30:57.1: [23772/23864] [PARSE DICO] - Start dictionary update service
+13 août 2024 17:33:01.849: [23772/23772] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 17:33:01.856: [23772/23772] [PARSE DICO] - Check if need online update
+13 août 2024 17:34:33.371: [23772/23772] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 17:34:33.372: [23772/23772] [PARSE DICO] - Check if need online update
+13 août 2024 17:37:05.585: [23772/23772] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 17:37:05.586: [23772/23772] [PARSE DICO] - Check if need online update
+13 août 2024 17:44:44.586: [23772/23772] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 17:44:44.588: [23772/23772] [PARSE DICO] - Check if need online update
+13 août 2024 19:02:55.397: [9316/9316] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 19:02:55.402: [9316/9316] [PARSE DICO] - Start Service ParseDictionary
+13 août 2024 19:02:55.600: [9316/9472] [PARSE DICO] - onHandleIntent START
+13 août 2024 19:02:55.606: [9316/9472] [PARSE DICO] - Acquire wake lock...
+13 août 2024 19:02:55.616: [9316/9472] [PARSE DICO] - Acquire wake lock done
+13 août 2024 19:02:55.619: [9316/9472] [PARSE DICO] - Read version file and convert to json...
+13 août 2024 19:02:55.622: [9316/9472] [PARSE DICO] - Version file read done
+13 août 2024 19:02:55.623: [9316/9472] [PARSE DICO] - check if need local update...
+13 août 2024 19:02:55.624: [9316/9472] [PARSE DICO] - check if need local update done
+13 août 2024 19:02:55.625: [9316/9472] [PARSE DICO] - Start dictionary update service
+13 août 2024 19:03:07.983: [9316/9316] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 19:03:07.985: [9316/9316] [PARSE DICO] - Check if need online update
+13 août 2024 19:08:50.776: [9316/9316] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 19:08:50.778: [9316/9316] [PARSE DICO] - Check if need online update
+13 août 2024 20:00:52.523: [9316/9316] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 20:00:52.530: [9316/9316] [PARSE DICO] - Check if need online update
+13 août 2024 20:17:05.457: [9316/9316] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 20:17:05.462: [9316/9316] [PARSE DICO] - Check if need online update
+13 août 2024 22:49:15.797: [5162/5162] [PARSE DICO] - Queue parse dictionary service
+13 août 2024 22:49:15.799: [5162/5162] [PARSE DICO] - Start Service ParseDictionary
+13 août 2024 22:49:15.836: [5162/8239] [PARSE DICO] - onHandleIntent START
+13 août 2024 22:49:15.837: [5162/8239] [PARSE DICO] - Acquire wake lock...
+13 août 2024 22:49:15.839: [5162/8239] [PARSE DICO] - Acquire wake lock done
+13 août 2024 22:49:15.842: [5162/8239] [PARSE DICO] - Read version file and convert to json...
+13 août 2024 22:49:15.846: [5162/8239] [PARSE DICO] - Version file read done
+13 août 2024 22:49:15.848: [5162/8239] [PARSE DICO] - check if need local update...
+13 août 2024 22:49:15.850: [5162/8239] [PARSE DICO] - check if need local update done
+13 août 2024 22:49:15.851: [5162/8239] [PARSE DICO] - Start dictionary update service
+14 août 2024 19:42:15.870: [31046/31046] [PARSE DICO] - Queue parse dictionary service
+14 août 2024 19:42:15.887: [31046/31046] [PARSE DICO] - Start Service ParseDictionary
+14 août 2024 19:42:15.935: [31046/31137] [PARSE DICO] - onHandleIntent START
+14 août 2024 19:42:15.936: [31046/31137] [PARSE DICO] - Acquire wake lock...
+14 août 2024 19:42:15.939: [31046/31137] [PARSE DICO] - Acquire wake lock done
+14 août 2024 19:42:15.940: [31046/31137] [PARSE DICO] - Read version file and convert to json...
+14 août 2024 19:42:15.941: [31046/31137] [PARSE DICO] - Version file read done
+14 août 2024 19:42:15.942: [31046/31137] [PARSE DICO] - check if need local update...
+14 août 2024 19:42:15.943: [31046/31137] [PARSE DICO] - check if need local update done
+14 août 2024 19:42:15.943: [31046/31137] [PARSE DICO] - Start dictionary update service
+15 août 2024 20:06:39.789: [18127/18127] [PARSE DICO] - Queue parse dictionary service
+15 août 2024 20:06:39.791: [18127/18127] [PARSE DICO] - Start Service ParseDictionary
+15 août 2024 20:06:39.848: [18127/18903] [PARSE DICO] - onHandleIntent START
+15 août 2024 20:06:39.849: [18127/18903] [PARSE DICO] - Acquire wake lock...
+15 août 2024 20:06:39.854: [18127/18903] [PARSE DICO] - Acquire wake lock done
+15 août 2024 20:06:39.855: [18127/18903] [PARSE DICO] - Read version file and convert to json...
+15 août 2024 20:06:39.866: [18127/18903] [PARSE DICO] - Version file read done
+15 août 2024 20:06:39.869: [18127/18903] [PARSE DICO] - check if need local update...
+15 août 2024 20:06:39.871: [18127/18903] [PARSE DICO] - check if need local update done
+15 août 2024 20:06:39.875: [18127/18903] [PARSE DICO] - Start dictionary update service
+15 août 2024 20:09:20.765: [18127/18127] [PARSE DICO] - Queue parse dictionary service
+15 août 2024 20:09:20.772: [18127/18127] [PARSE DICO] - Check if need online update
+16 août 2024 09:30:55.787: [14338/14338] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 09:30:55.792: [14338/14338] [PARSE DICO] - Start Service ParseDictionary
+16 août 2024 09:30:55.820: [14338/14435] [PARSE DICO] - onHandleIntent START
+16 août 2024 09:30:55.824: [14338/14435] [PARSE DICO] - Acquire wake lock...
+16 août 2024 09:30:55.829: [14338/14435] [PARSE DICO] - Acquire wake lock done
+16 août 2024 09:30:55.831: [14338/14435] [PARSE DICO] - Read version file and convert to json...
+16 août 2024 09:30:55.834: [14338/14435] [PARSE DICO] - Version file read done
+16 août 2024 09:30:55.836: [14338/14435] [PARSE DICO] - check if need local update...
+16 août 2024 09:30:55.838: [14338/14435] [PARSE DICO] - check if need local update done
+16 août 2024 09:30:55.842: [14338/14435] [PARSE DICO] - Start dictionary update service
+16 août 2024 09:32:53.751: [14338/14338] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 09:32:53.753: [14338/14338] [PARSE DICO] - Check if need online update
+16 août 2024 16:41:04.745: [18673/18673] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 16:41:04.747: [18673/18673] [PARSE DICO] - Start Service ParseDictionary
+16 août 2024 16:41:04.907: [18673/21508] [PARSE DICO] - onHandleIntent START
+16 août 2024 16:41:04.912: [18673/21508] [PARSE DICO] - Acquire wake lock...
+16 août 2024 16:41:04.916: [18673/21508] [PARSE DICO] - Acquire wake lock done
+16 août 2024 16:41:04.919: [18673/21508] [PARSE DICO] - Read version file and convert to json...
+16 août 2024 16:41:04.927: [18673/21508] [PARSE DICO] - Version file read done
+16 août 2024 16:41:04.928: [18673/21508] [PARSE DICO] - check if need local update...
+16 août 2024 16:41:04.930: [18673/21508] [PARSE DICO] - check if need local update done
+16 août 2024 16:41:04.934: [18673/21508] [PARSE DICO] - Start dictionary update service
+16 août 2024 17:06:01.495: [18673/18673] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 17:06:01.496: [18673/18673] [PARSE DICO] - Check if need online update
+16 août 2024 17:14:15.978: [18673/18673] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 17:14:15.979: [18673/18673] [PARSE DICO] - Check if need online update
+16 août 2024 20:41:42.478: [18555/18555] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 20:41:42.481: [18555/18555] [PARSE DICO] - Start Service ParseDictionary
+16 août 2024 20:41:42.565: [18555/18644] [PARSE DICO] - onHandleIntent START
+16 août 2024 20:41:42.569: [18555/18644] [PARSE DICO] - Acquire wake lock...
+16 août 2024 20:41:42.579: [18555/18644] [PARSE DICO] - Acquire wake lock done
+16 août 2024 20:41:42.580: [18555/18644] [PARSE DICO] - Read version file and convert to json...
+16 août 2024 20:41:42.581: [18555/18644] [PARSE DICO] - Version file read done
+16 août 2024 20:41:42.583: [18555/18644] [PARSE DICO] - check if need local update...
+16 août 2024 20:41:42.584: [18555/18644] [PARSE DICO] - check if need local update done
+16 août 2024 20:41:42.585: [18555/18644] [PARSE DICO] - Start dictionary update service
+16 août 2024 20:44:39.509: [18555/18555] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 20:44:39.520: [18555/18555] [PARSE DICO] - Check if need online update
+16 août 2024 20:45:29.273: [18555/18555] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 20:45:29.276: [18555/18555] [PARSE DICO] - Check if need online update
+16 août 2024 20:55:53.61: [18555/18555] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 20:55:53.65: [18555/18555] [PARSE DICO] - Check if need online update
+16 août 2024 21:57:54.345: [18555/18555] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 21:57:54.349: [18555/18555] [PARSE DICO] - Check if need online update
+16 août 2024 22:01:02.740: [18555/18555] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 22:01:02.745: [18555/18555] [PARSE DICO] - Check if need online update
+16 août 2024 22:02:43.316: [18555/18555] [PARSE DICO] - Queue parse dictionary service
+16 août 2024 22:02:43.320: [18555/18555] [PARSE DICO] - Check if need online update
