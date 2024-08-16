@@ -19,7 +19,7 @@ global.location = "Togo, maritime, Lomé"
 
 global.ownernumber = '22898133388'  //creator number
 global.ownername = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛' //owner name
-global.botname = '♡●♰亗『мᏒ』ꂅꊼᏃᎥცŭ̈Ϯ〖ᴷⁱⁿᴳ◦•●' //name of the bot
+global.botname = '♡●♰亗『мᏒ』ꂅꊼᏃᎥცŭ̈Ϯ' //name of the bot
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
